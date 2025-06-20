@@ -1,5 +1,7 @@
 Download the main files here. For emulator users, I highly recommend compiling the mod into a cia. For hardware users, you NEED to: no exceptions. Placing the files like you're using an emulator will cause massive lag and the game will be unplayable.
 
+Modpack will be stuck in v.16.1 until Secret Path is completed. It is not compatible with v.17+, hence it will be its own version until then.
+
 # Install Instructions
 ### If you are on emulators, this is the file pathing of where you would place your romfs folder and code.ips
 
