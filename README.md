@@ -1,4 +1,4 @@
-Download the main files here. For emulator users, I highly recommend compiling the mod into a cia. For hardware users, you NEED to: no exceptions. Placing the files like you're using an emulator will cause massive lag and the game will be unplayable. Read the instructions in the zip files carefully.
+Download the main files here. SPECIAL EDITION ONLY. For emulator users, I highly recommend compiling the mod into a cia. For hardware users, you NEED to: no exceptions. Placing the files like you're using an emulator will cause massive lag and the game will be unplayable. Read the instructions in the zip files carefully.
 
 Modpack will be stuck in v.22 until Secret Path is completed. It will be its own separate package until then.
 
